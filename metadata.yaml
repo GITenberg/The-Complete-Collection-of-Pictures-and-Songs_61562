@@ -1,0 +1,43 @@
+_repo: The-Complete-Collection-of-Pictures-and-Songs_61562
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Austin_Dobson
+  engineer:
+    agent_name: Evans, Edmund
+    alias: Evans, E. (Edmund)
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '31336'
+    url: http://www.gutenberg.org/2009/agents/31336
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Evans
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: https://en.wikipedia.org/wiki/Randolph_Caldecott
+description: ''
+gutenberg_issued: '2020-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61562'
+  lccn: '42048476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- GITenberg
+title: The Complete Collection of Pictures and Songs
+url: http://www.gutenberg.org/ebooks/61562
