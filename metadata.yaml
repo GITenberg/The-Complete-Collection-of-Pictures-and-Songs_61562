@@ -1,5 +1,5 @@
 _repo: The-Complete-Collection-of-Pictures-and-Songs_61562
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Dobson, Austin
@@ -25,7 +25,12 @@ contributor:
     gutenberg_agent_id: '3611'
     url: http://www.gutenberg.org/2009/agents/3611
     wikipedia: https://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: archival
+  image_path: 61562-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61562#The-Complete-Collection-of-Pictures-and-Songs
 gutenberg_issued: '2020-03-05'
 gutenberg_type: Text
 identifiers:
